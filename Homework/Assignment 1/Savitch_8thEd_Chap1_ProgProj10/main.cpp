@@ -34,7 +34,8 @@ int main(int argc, char** argv) {
     cout<< " " << c <<endl;
     cout<< " " << c <<endl;
     cout<< "  " << c << "   " << c <<endl;
-    cout<< "  " << " "<< c << c << c <<endl;   
+    cout<< "  " << " "<< c << c << c <<endl;
+    //Exit Stage Right!
     return 0;
 }
 
